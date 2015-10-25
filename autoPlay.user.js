@@ -15,7 +15,7 @@ var clickRate = 18;
 var setClickVariable = false; // copypasted from a guy's fork, untested
 
 
-
+ 
 var ABILITIES = {
 	"MORALE_BOOSTER": 5,
 	"GOOD_LUCK": 6,
